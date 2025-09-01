@@ -1,4 +1,4 @@
-# Plant_Disease_Detection
+# Plant Disease Detection
 
 ## Dataset Link: https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
